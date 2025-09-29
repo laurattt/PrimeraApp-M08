@@ -27,9 +27,6 @@ class MainActivity : AppCompatActivity() {
                 Log.d("BUTTONS", "button2 press")
                 Toast.makeText(this,"Hola Mundo! :)",Toast.LENGTH_SHORT).show() //Funciona como alerta
             }
-        
-
-
 
     }
 }
